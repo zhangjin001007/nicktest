@@ -1,7 +1,7 @@
 
-public class MyTest1 {
+public class MyTest3333 {
 
-    public MyTest1() {
+    public MyTest3333() {
 	// TODO Auto-generated constructor stub
     }
 
