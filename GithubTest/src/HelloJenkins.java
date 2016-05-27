@@ -2,6 +2,7 @@
 public class HelloJenkins {
     public static void main(String[] args) {
 	// TODO Auto-generated method stub
-    	System.out.println("hello jenkins!! updated!");
+    	System.out.println("1: hello jenkins!! updated!");
+    	System.out.println("2: hello jenkins!! updated!");
     }
 }
