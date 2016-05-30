@@ -10,5 +10,6 @@ public class HelloJenkins {
     	System.out.println("1: hello jenkins!! updated!");
     	System.out.println("2: hello jenkins!! updated!");
     	System.out.println("successful");
+    	System.out.println("successful 2");
     }
 }
